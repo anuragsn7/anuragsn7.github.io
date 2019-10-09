@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: Made with Jekyll
 layout: home
 ---
+
+Checking out Jekyll admin interface 
+
+![](https://anuragsaini.dev/B2WUkZk.jpg)
